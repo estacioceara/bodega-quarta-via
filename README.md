@@ -70,10 +70,13 @@ Pontos a abordar na apresentação:
 Sugestão:
 
 1 - apresenta a equipe
+
 2- apresentar os titulos das tarefas
 
 3 - Meu problema foi tal
+
 4 - Minha solução foi tal/tendo tais dificuldades
+
 5 - E esse é o resultado, não é muito é trabalho honesto
 
 
